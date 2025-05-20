@@ -1,3 +1,12 @@
+>[!IMPORTANT]
+> This package was forked from [coroo/nova-chartjs](https://github.com/coroo/nova-chartjs), as we require the upgrade before the package is bumped for Nova 5
+> Only the name of the package has been changed. To make a clear separation with our own Package repository
+> Please resort back to the original package once its updated for Nova 5
+
+
+
+***
+
 # Nova ChartJS - Laravel Nova Package
 
 A Laravel Nova Dashboard with Chart JS | See [:blue_book:Documentation Page](https://coroo.github.io/nova-chartjs/)
